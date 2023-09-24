@@ -9,7 +9,10 @@
     You can check out the full tutorial where I will guide and you and explain the steps in this YouTube video: <a href="https://www.youtube.com/watch?v=8ZcEYv2ezWc">link</a>
 </p>
 
-<img src="https://github.com/curadProgrammer/WeatherAppGUI-Java/blob/main/Screenshot_15.png?raw=true">
+<p align="center">
+    <img src="https://github.com/curadProgrammer/WeatherAppGUI-Java/blob/main/Screenshot_15.png?raw=true" align="center">
+</p>
+
 <h2>Technologies Used</h2>
 <p>
     The Weather App utilizes the following technologies and libraries:
