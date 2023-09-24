@@ -1,5 +1,4 @@
 <h1>Weather App GUI</h1>
-
 <h2>Introduction</h2>
 <p>
     The Weather App is a Java-based application that provides users with real-time weather information for a specified location. It fetches weather data from an external API and displays it in a graphical user interface (GUI). Users can enter a location, and the app retrieves and 
@@ -10,6 +9,7 @@
     You can check out the full tutorial where I will guide and you and explain the steps in this YouTube video: <a href="https://www.youtube.com/watch?v=8ZcEYv2ezWc">link</a>
 </p>
 
+<img src="https://github.com/curadProgrammer/WeatherAppGUI-Java/blob/main/Screenshot_15.png?raw=true">
 <h2>Technologies Used</h2>
 <p>
     The Weather App utilizes the following technologies and libraries:
